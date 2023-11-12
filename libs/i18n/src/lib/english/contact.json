@@ -1,0 +1,46 @@
+{
+  "contact": {
+    "heading": "Contact",
+    "mail": {
+      "heading": "MAIL",
+      "icon": "iconoir-mail",
+      "links": ["ali@qamarlabs.com", "devmtnali@gmail.com"]
+    },
+    "phone": {
+      "heading": "CONTACT",
+      "icon": "iconoir-phone",
+      "links": [
+        {
+          "text": "Calendly",
+          "href": "https://calendly.com/ali-qamar-labs/30min"
+        }
+      ]
+    },
+    "location": {
+      "heading": "LOCATION",
+      "icon": "iconoir-pin-alt",
+      "type": "Location",
+      "location": "Tampa, FL, USA"
+    }
+  },
+  "profiles": {
+    "heading": "External",
+    "profiles": [
+      {
+        "link": "https://github.com/AliA1997",
+        "icon": "iconoir-github"
+      },
+      {
+        "link": "https://www.linkedin.com/in/ali-alhaddad/",
+        "icon": "iconoir-linkedin"
+      }
+    ]
+  },
+  "form": {
+    "heading": "Let’s <span>chat.</span>",
+    "onCompletion": "Message has been dispatched!",
+    "button": {
+      "text": "Dispatch Message"
+    }
+  }
+}
